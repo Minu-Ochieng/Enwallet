@@ -19,16 +19,16 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun displayContacts() {
-        val expense1 = Expenses("Divedends",24000,"4th July 2024")
-        val expense2 = Expenses("Divedends",24000,"4th July 2024")
+        val expense1 = Expenses("Salary",42000,"1th July 2024")
+        val expense2 = Expenses("Rent",16000,"2th July 2024")
         val expense3 = Expenses("Divedends",24000,"4th July 2024")
-        val expense4 = Expenses("Divedends",24000,"4th July 2024")
-        val expense5 = Expenses("Divedends",24000,"4th July 2024")
-        val expense6 = Expenses("Divedends",24000,"4th July 2024")
-        val expense7 = Expenses("Divedends",24000,"4th July 2024")
-        val expense8 = Expenses("Divedends",24000,"4th July 2024")
-        val expense9 = Expenses("Divedends",24000,"4th July 2024")
-        val expense10 = Expenses("Divedends",24000,"4th July 2024")
+        val expense4 = Expenses("Electricty",800,"5th July 2024")
+        val expense5 = Expenses("Internet",2500,"5th July 2024")
+        val expense6 = Expenses("Shopping",3500,"5th July 2024")
+        val expense7 = Expenses("Bus Fare",500,"5th July 2024")
+        val expense8 = Expenses("Water Bill",4000,"5th July 2024")
+        val expense9 = Expenses("Savings",5000,"6th July 2024")
+        val expense10 = Expenses("New Bed",3000,"5th July 2024")
 
 
 
